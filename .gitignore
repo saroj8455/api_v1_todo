@@ -1,0 +1,7 @@
+
+## SKIP NODEMODULES
+node_modules
+
+## CODE EDITOR
+.vs_code
+.idea
